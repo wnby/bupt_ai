@@ -1,0 +1,211 @@
+Using device: cuda
+                                                              
+Epoch 1/30: Loss: 1.6302, Accuracy: 45.41%
+Test Accuracy: 54.39%
+                                                              
+Epoch 2/30: Loss: 1.1869, Accuracy: 58.48%
+Test Accuracy: 53.23%
+                                                              
+Epoch 3/30: Loss: 1.0643, Accuracy: 63.26%
+Test Accuracy: 62.09%
+                                                              
+Epoch 4/30: Loss: 1.0006, Accuracy: 65.39%
+Test Accuracy: 60.97%
+                                                              
+Epoch 5/30: Loss: 0.9541, Accuracy: 67.07%
+Test Accuracy: 63.37%
+Class 0 Accuracy: 64.40%
+Predicted Class 0 Count: 916
+Class 1 Accuracy: 78.20%
+Predicted Class 1 Count: 1059
+Class 2 Accuracy: 50.70%
+Predicted Class 2 Count: 1030
+Class 3 Accuracy: 44.30%
+Predicted Class 3 Count: 944
+Class 4 Accuracy: 66.70%
+Predicted Class 4 Count: 1314
+Class 5 Accuracy: 51.70%
+Predicted Class 5 Count: 938
+Class 6 Accuracy: 63.70%
+Predicted Class 6 Count: 786
+Class 7 Accuracy: 75.80%
+Predicted Class 7 Count: 1202
+Class 8 Accuracy: 75.30%
+Predicted Class 8 Count: 1024
+Class 9 Accuracy: 62.90%
+Predicted Class 9 Count: 787
+                                                              
+Epoch 6/30: Loss: 0.9142, Accuracy: 68.58%
+Test Accuracy: 63.34%
+                                                              
+Epoch 7/30: Loss: 0.8874, Accuracy: 69.34%
+Test Accuracy: 60.32%
+                                                              
+Epoch 8/30: Loss: 0.8651, Accuracy: 70.06%
+Test Accuracy: 62.31%
+                                                              
+Epoch 9/30: Loss: 0.8418, Accuracy: 70.99%
+Test Accuracy: 62.57%
+                                                               
+Epoch 10/30: Loss: 0.8172, Accuracy: 71.65%
+Test Accuracy: 63.31%
+Class 0 Accuracy: 65.50%
+Predicted Class 0 Count: 951
+Class 1 Accuracy: 73.60%
+Predicted Class 1 Count: 935
+Class 2 Accuracy: 45.70%
+Predicted Class 2 Count: 853
+Class 3 Accuracy: 48.40%
+Predicted Class 3 Count: 1161
+Class 4 Accuracy: 44.70%
+Predicted Class 4 Count: 661
+Class 5 Accuracy: 62.90%
+Predicted Class 5 Count: 1316
+Class 6 Accuracy: 74.20%
+Predicted Class 6 Count: 1043
+Class 7 Accuracy: 73.50%
+Predicted Class 7 Count: 1111
+Class 8 Accuracy: 70.40%
+Predicted Class 8 Count: 892
+Class 9 Accuracy: 74.20%
+Predicted Class 9 Count: 1077
+                                                               
+Epoch 11/30: Loss: 0.8018, Accuracy: 72.10%
+Test Accuracy: 63.62%
+                                                               
+Epoch 12/30: Loss: 0.7909, Accuracy: 72.52%
+Test Accuracy: 62.53%
+                                                               
+Epoch 13/30: Loss: 0.7836, Accuracy: 72.62%
+Test Accuracy: 61.94%
+                                                               
+Epoch 14/30: Loss: 0.7685, Accuracy: 73.42%
+Test Accuracy: 63.32%
+                                                               
+Epoch 15/30: Loss: 0.7632, Accuracy: 73.44%
+Test Accuracy: 63.12%
+Class 0 Accuracy: 66.90%
+Predicted Class 0 Count: 1018
+Class 1 Accuracy: 83.00%
+Predicted Class 1 Count: 1203
+Class 2 Accuracy: 53.20%
+Predicted Class 2 Count: 1293
+Class 3 Accuracy: 32.70%
+Predicted Class 3 Count: 608
+Class 4 Accuracy: 60.10%
+Predicted Class 4 Count: 1095
+Class 5 Accuracy: 51.50%
+Predicted Class 5 Count: 885
+Class 6 Accuracy: 81.30%
+Predicted Class 6 Count: 1239
+Class 7 Accuracy: 68.10%
+Predicted Class 7 Count: 917
+Class 8 Accuracy: 64.10%
+Predicted Class 8 Count: 765
+Class 9 Accuracy: 70.30%
+Predicted Class 9 Count: 977
+                                                               
+Epoch 16/30: Loss: 0.7519, Accuracy: 73.69%
+Test Accuracy: 63.80%
+                                                               
+Epoch 17/30: Loss: 0.7425, Accuracy: 74.02%
+Test Accuracy: 63.26%
+                                                               
+Epoch 18/30: Loss: 0.7339, Accuracy: 74.42%
+Test Accuracy: 62.47%
+                                                               
+Epoch 19/30: Loss: 0.7309, Accuracy: 74.34%
+Test Accuracy: 63.80%
+                                                               
+Epoch 20/30: Loss: 0.7250, Accuracy: 74.64%
+Test Accuracy: 63.63%
+Class 0 Accuracy: 68.10%
+Predicted Class 0 Count: 1044
+Class 1 Accuracy: 70.60%
+Predicted Class 1 Count: 877
+Class 2 Accuracy: 52.10%
+Predicted Class 2 Count: 1101
+Class 3 Accuracy: 41.20%
+Predicted Class 3 Count: 837
+Class 4 Accuracy: 51.40%
+Predicted Class 4 Count: 872
+Class 5 Accuracy: 60.50%
+Predicted Class 5 Count: 1224
+Class 6 Accuracy: 76.30%
+Predicted Class 6 Count: 1099
+Class 7 Accuracy: 69.30%
+Predicted Class 7 Count: 965
+Class 8 Accuracy: 71.40%
+Predicted Class 8 Count: 927
+Class 9 Accuracy: 75.40%
+Predicted Class 9 Count: 1054
+                                                               
+Epoch 21/30: Loss: 0.7176, Accuracy: 74.96%
+Test Accuracy: 62.30%
+                                                               
+Epoch 22/30: Loss: 0.7153, Accuracy: 74.91%
+Test Accuracy: 63.20%
+                                                               
+Epoch 23/30: Loss: 0.7039, Accuracy: 75.43%
+Test Accuracy: 63.22%
+                                                               
+Epoch 24/30: Loss: 0.7007, Accuracy: 75.56%
+Test Accuracy: 62.09%
+                                                               
+Epoch 25/30: Loss: 0.6967, Accuracy: 75.75%
+Test Accuracy: 62.99%
+Class 0 Accuracy: 65.50%
+Predicted Class 0 Count: 959
+Class 1 Accuracy: 73.10%
+Predicted Class 1 Count: 925
+Class 2 Accuracy: 57.00%
+Predicted Class 2 Count: 1300
+Class 3 Accuracy: 52.80%
+Predicted Class 3 Count: 1234
+Class 4 Accuracy: 47.80%
+Predicted Class 4 Count: 801
+Class 5 Accuracy: 53.60%
+Predicted Class 5 Count: 995
+Class 6 Accuracy: 71.40%
+Predicted Class 6 Count: 1000
+Class 7 Accuracy: 62.40%
+Predicted Class 7 Count: 804
+Class 8 Accuracy: 77.50%
+Predicted Class 8 Count: 1087
+Class 9 Accuracy: 68.80%
+Predicted Class 9 Count: 895
+                                                               
+Epoch 26/30: Loss: 0.6959, Accuracy: 75.65%
+Test Accuracy: 60.79%
+                                                               
+Epoch 27/30: Loss: 0.6914, Accuracy: 75.67%
+Test Accuracy: 62.71%
+                                                               
+Epoch 28/30: Loss: 0.6858, Accuracy: 75.94%
+Test Accuracy: 63.21%
+                                                               
+Epoch 29/30: Loss: 0.6852, Accuracy: 75.99%
+Test Accuracy: 62.53%
+                                                               
+Epoch 30/30: Loss: 0.6757, Accuracy: 76.40%
+Test Accuracy: 62.43%
+Class 0 Accuracy: 72.80%
+Predicted Class 0 Count: 1251
+Class 1 Accuracy: 69.80%
+Predicted Class 1 Count: 888
+Class 2 Accuracy: 47.90%
+Predicted Class 2 Count: 984
+Class 3 Accuracy: 53.10%
+Predicted Class 3 Count: 1253
+Class 4 Accuracy: 52.90%
+Predicted Class 4 Count: 962
+Class 5 Accuracy: 42.80%
+Predicted Class 5 Count: 692
+Class 6 Accuracy: 67.90%
+Predicted Class 6 Count: 917
+Class 7 Accuracy: 69.10%
+Predicted Class 7 Count: 983
+Class 8 Accuracy: 77.40%
+Predicted Class 8 Count: 1104
+Class 9 Accuracy: 70.60%
+Predicted Class 9 Count: 966

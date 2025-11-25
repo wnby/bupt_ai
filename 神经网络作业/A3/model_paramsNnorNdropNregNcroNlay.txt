@@ -1,0 +1,196 @@
+Using device: cuda
+                                                              
+Epoch 1/15: Loss: 1.4926, Accuracy: 47.72%
+Test Accuracy: 53.99%
+Class 0 Accuracy: 68.70%
+Class 1 Accuracy: 50.80%
+Class 2 Accuracy: 24.00%
+Class 3 Accuracy: 28.30%
+Class 4 Accuracy: 48.20%
+Class 5 Accuracy: 69.80%
+Class 6 Accuracy: 69.10%
+Class 7 Accuracy: 49.80%
+Class 8 Accuracy: 60.00%
+Class 9 Accuracy: 71.20%
+                                                              
+Epoch 2/15: Loss: 1.2201, Accuracy: 57.47%
+Test Accuracy: 57.16%
+Class 0 Accuracy: 49.70%
+Class 1 Accuracy: 62.60%
+Class 2 Accuracy: 46.20%
+Class 3 Accuracy: 38.90%
+Class 4 Accuracy: 47.50%
+Class 5 Accuracy: 61.20%
+Class 6 Accuracy: 76.30%
+Class 7 Accuracy: 53.10%
+Class 8 Accuracy: 75.80%
+Class 9 Accuracy: 60.30%
+                                                              
+Epoch 3/15: Loss: 1.1285, Accuracy: 60.99%
+Test Accuracy: 60.99%
+Class 0 Accuracy: 60.30%
+Class 1 Accuracy: 73.70%
+Class 2 Accuracy: 50.20%
+Class 3 Accuracy: 40.30%
+Class 4 Accuracy: 53.30%
+Class 5 Accuracy: 51.40%
+Class 6 Accuracy: 65.50%
+Class 7 Accuracy: 70.00%
+Class 8 Accuracy: 74.70%
+Class 9 Accuracy: 70.50%
+                                                              
+Epoch 4/15: Loss: 1.0607, Accuracy: 63.43%
+Test Accuracy: 61.11%
+Class 0 Accuracy: 69.10%
+Class 1 Accuracy: 71.20%
+Class 2 Accuracy: 54.80%
+Class 3 Accuracy: 46.20%
+Class 4 Accuracy: 39.30%
+Class 5 Accuracy: 53.10%
+Class 6 Accuracy: 60.90%
+Class 7 Accuracy: 67.90%
+Class 8 Accuracy: 78.10%
+Class 9 Accuracy: 70.50%
+                                                              
+Epoch 5/15: Loss: 1.0092, Accuracy: 65.18%
+Test Accuracy: 61.44%
+Class 0 Accuracy: 59.90%
+Class 1 Accuracy: 63.30%
+Class 2 Accuracy: 63.80%
+Class 3 Accuracy: 39.30%
+Class 4 Accuracy: 51.70%
+Class 5 Accuracy: 50.40%
+Class 6 Accuracy: 77.10%
+Class 7 Accuracy: 63.70%
+Class 8 Accuracy: 66.20%
+Class 9 Accuracy: 79.00%
+                                                              
+Epoch 6/15: Loss: 0.9666, Accuracy: 66.71%
+Test Accuracy: 62.70%
+Class 0 Accuracy: 57.30%
+Class 1 Accuracy: 72.60%
+Class 2 Accuracy: 43.70%
+Class 3 Accuracy: 45.30%
+Class 4 Accuracy: 52.10%
+Class 5 Accuracy: 41.90%
+Class 6 Accuracy: 78.90%
+Class 7 Accuracy: 78.40%
+Class 8 Accuracy: 78.00%
+Class 9 Accuracy: 78.80%
+                                                              
+Epoch 7/15: Loss: 0.9283, Accuracy: 68.09%
+Test Accuracy: 61.17%
+Class 0 Accuracy: 60.60%
+Class 1 Accuracy: 77.70%
+Class 2 Accuracy: 50.00%
+Class 3 Accuracy: 45.90%
+Class 4 Accuracy: 57.00%
+Class 5 Accuracy: 55.70%
+Class 6 Accuracy: 73.20%
+Class 7 Accuracy: 61.80%
+Class 8 Accuracy: 85.60%
+Class 9 Accuracy: 44.20%
+                                                              
+Epoch 8/15: Loss: 0.9034, Accuracy: 68.95%
+Test Accuracy: 62.78%
+Class 0 Accuracy: 72.50%
+Class 1 Accuracy: 77.70%
+Class 2 Accuracy: 61.30%
+Class 3 Accuracy: 42.00%
+Class 4 Accuracy: 44.20%
+Class 5 Accuracy: 43.20%
+Class 6 Accuracy: 84.80%
+Class 7 Accuracy: 68.90%
+Class 8 Accuracy: 70.20%
+Class 9 Accuracy: 63.00%
+                                                              
+Epoch 9/15: Loss: 0.8733, Accuracy: 69.84%
+Test Accuracy: 63.85%
+Class 0 Accuracy: 67.10%
+Class 1 Accuracy: 74.90%
+Class 2 Accuracy: 40.90%
+Class 3 Accuracy: 45.30%
+Class 4 Accuracy: 63.40%
+Class 5 Accuracy: 61.60%
+Class 6 Accuracy: 58.80%
+Class 7 Accuracy: 74.60%
+Class 8 Accuracy: 81.00%
+Class 9 Accuracy: 70.90%
+                                                               
+Epoch 10/15: Loss: 0.8476, Accuracy: 71.06%
+Test Accuracy: 65.07%
+Class 0 Accuracy: 64.60%
+Class 1 Accuracy: 76.90%
+Class 2 Accuracy: 48.00%
+Class 3 Accuracy: 45.20%
+Class 4 Accuracy: 51.60%
+Class 5 Accuracy: 61.70%
+Class 6 Accuracy: 84.10%
+Class 7 Accuracy: 71.50%
+Class 8 Accuracy: 74.70%
+Class 9 Accuracy: 72.40%
+                                                               
+Epoch 11/15: Loss: 0.8257, Accuracy: 71.59%
+Test Accuracy: 64.41%
+Class 0 Accuracy: 67.60%
+Class 1 Accuracy: 73.30%
+Class 2 Accuracy: 39.60%
+Class 3 Accuracy: 41.00%
+Class 4 Accuracy: 56.10%
+Class 5 Accuracy: 61.80%
+Class 6 Accuracy: 73.70%
+Class 7 Accuracy: 71.00%
+Class 8 Accuracy: 85.40%
+Class 9 Accuracy: 74.60%
+                                                               
+Epoch 12/15: Loss: 0.8049, Accuracy: 72.29%
+Test Accuracy: 65.07%
+Class 0 Accuracy: 68.40%
+Class 1 Accuracy: 80.40%
+Class 2 Accuracy: 51.80%
+Class 3 Accuracy: 52.20%
+Class 4 Accuracy: 51.10%
+Class 5 Accuracy: 55.00%
+Class 6 Accuracy: 72.10%
+Class 7 Accuracy: 73.10%
+Class 8 Accuracy: 72.60%
+Class 9 Accuracy: 74.00%
+                                                               
+Epoch 13/15: Loss: 0.7853, Accuracy: 72.96%
+Test Accuracy: 64.08%
+Class 0 Accuracy: 66.60%
+Class 1 Accuracy: 81.40%
+Class 2 Accuracy: 53.50%
+Class 3 Accuracy: 35.50%
+Class 4 Accuracy: 57.40%
+Class 5 Accuracy: 52.90%
+Class 6 Accuracy: 85.60%
+Class 7 Accuracy: 72.20%
+Class 8 Accuracy: 72.90%
+Class 9 Accuracy: 62.80%
+                                                               
+Epoch 14/15: Loss: 0.7672, Accuracy: 73.58%
+Test Accuracy: 64.89%
+Class 0 Accuracy: 75.00%
+Class 1 Accuracy: 75.00%
+Class 2 Accuracy: 50.60%
+Class 3 Accuracy: 51.80%
+Class 4 Accuracy: 55.50%
+Class 5 Accuracy: 49.40%
+Class 6 Accuracy: 73.00%
+Class 7 Accuracy: 71.70%
+Class 8 Accuracy: 73.60%
+Class 9 Accuracy: 73.30%
+                                                               
+Epoch 15/15: Loss: 0.7516, Accuracy: 74.16%
+Test Accuracy: 64.10%
+Class 0 Accuracy: 73.70%
+Class 1 Accuracy: 81.00%
+Class 2 Accuracy: 49.50%
+Class 3 Accuracy: 33.20%
+Class 4 Accuracy: 67.60%
+Class 5 Accuracy: 49.70%
+Class 6 Accuracy: 83.80%
+Class 7 Accuracy: 70.20%
+Class 8 Accuracy: 63.20%
+Class 9 Accuracy: 69.10%
